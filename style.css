@@ -51,8 +51,8 @@ h1{
 }
 .options li button {
     background-color: #ff8400;
-    width: 40%;
-    height: 35px;
+    width: 45%;
+    height: 40px;
 }
 .options li button:hover {
     background-color:  #f8bb05;
